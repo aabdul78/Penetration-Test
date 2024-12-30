@@ -275,6 +275,7 @@ The following completed MITRE ATT&CK navigator map shows all of the techniques a
 ![image](https://github.com/user-attachments/assets/7bbc9cf2-4e47-4345-9825-6e78ff582d9a)
 
 Performed successfully (Yellow)
+
 Failure to perform (Red)
 
 
